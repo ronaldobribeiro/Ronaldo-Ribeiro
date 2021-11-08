@@ -2,7 +2,7 @@
 
 Olá, tudo bem? Espero que sim. 
 
-Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que pode acessar por aqui, https://github.com/ronaldobribeiro(https://github.com/ronaldobribeiro), quero mostrar os dashboards desenvolvidos por mim. 
+Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que pode acessar por aqui, https://github.com/ronaldobribeiro, quero mostrar os dashboards desenvolvidos por mim. 
 
 ### Atualmente
 
