@@ -6,7 +6,7 @@ Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que 
 
 ### Atualmente
 
-Atuo numa indústria em ritmo de crescimento, jovem e dinâmico, meu desafio aqui é criar dashboards de valor, que geram informações e insights as várias áreas da empresa. 
+Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto ao nosso banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma.  
 
 ```markdown
 Syntax highlighted code block
