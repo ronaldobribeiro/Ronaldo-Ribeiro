@@ -1,10 +1,12 @@
 ## Bem vindo ao meu GitHUB.
 
-Espaço reservado para mostrar um pouco daquilo que faço em meu dia da dia.
+Olá, tudo bem? Espero que sim. 
 
-### Markdown
+Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que pode acessar por aqui, https://github.com/ronaldobribeiro, quero mostrar os dashboards desenvolvidos por mim. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Atualmente
+
+Atuo numa indústria em ritmo de crescimento, jovem e dinâmico, meu desafio aqui é criar dashboards de valor, que geram informações e insights as várias áreas da empresa. 
 
 ```markdown
 Syntax highlighted code block
