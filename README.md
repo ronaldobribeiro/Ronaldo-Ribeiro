@@ -6,10 +6,10 @@ Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que 
 
 ### Atualmente
 
-Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto ao nosso banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma.  
+Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto ao nosso banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer 1 vez de forma correta.
 
 ```markdown
-Syntax highlighted code block
+Segue alguns dashboard desenvolvidos
 
 # Header 1
 ## Header 2
