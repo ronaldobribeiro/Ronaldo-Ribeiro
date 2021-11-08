@@ -12,7 +12,7 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 Segue alguns dashboard desenvolvidos
 
 Banco de Horas
-![alt text](https://github.com/ronaldobribeiro/Ronaldo-Ribeiro/blob/main/banco%20de%20horas.png)
+![Screenshot](bancodehoras.png)
 
 # Header 1
 ## Header 2
