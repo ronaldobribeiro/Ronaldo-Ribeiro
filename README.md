@@ -12,11 +12,11 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 # Ferramentas.
 
 <p align = "left">
- <img width="60" src="src/icon/R.png">
- <img width="60" src="src/icon/python.png">
- <img width="60" src="src/icon/sql.png">
- <img width="60" src="src/icon/bi.png">
- <img width="107" src="src/icon/excel.png">
+ <img width="80" src="src/icon/R.png">
+ <img width="80" src="src/icon/python.png">
+ <img width="80" src="src/icon/sql.png">
+ <img width="80" src="src/icon/bi.png">
+ <img width="167" src="src/icon/excel.png">
 </p>
 
 
