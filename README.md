@@ -20,7 +20,7 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 </p>
 
 
-![Estatisticas do meu Github](https://github-readme-stats.vercel.app/api?username=ronaldobribeiro&hide=contribs,prs&show_icon=true)
+![Estatisticas do meu Github](https://github-readme-stats.vercel.app/api?username=ronaldobribeiro&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 
 
