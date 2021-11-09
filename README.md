@@ -2,7 +2,7 @@
 Olá, tudo bem? Espero que sim. 
 
 <p align = "left">
-<img width = "100" src="src/assets/R.jpg"> 
+<img width = "100" src="src/assets/ronaldo.jpg"> 
 </p>
 
 Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
@@ -13,11 +13,11 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 
 #Ferramentas. 
 <p align = "right">
- <img width="200" src="src/icon/R.png">
- <img width="200" src="src/icon/python.png">
- <img width="200" src="src/icon/sql.png">
- <img width="200" src="src/icon/bi.png">
- <img width="200" src="src/icon/excel.png">
+ <img width="50" src="src/icon/R.png">
+ <img width="50" src="src/icon/python.png">
+ <img width="50" src="src/icon/sql.png">
+ <img width="50" src="src/icon/bi.png">
+ <img width="50" src="src/icon/excel.png">
 </p>
 
 
