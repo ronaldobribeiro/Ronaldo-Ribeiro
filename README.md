@@ -1,8 +1,8 @@
 <p align = "right">
- 
- ## Bem vindo!
- Olá, tudo bem? Espero que sim. 
- 
+ <p>
+  ### Bem vindo!
+  Olá, tudo bem? Espero que sim.
+ </p>
 <img width = "100" src="src/assets/ronaldo.jpg"> 
 </p>
 
@@ -16,11 +16,11 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 # Ferramentas.
 
 <p align = "left">
- <img width="50" src="src/icon/R.png">
- <img width="50" src="src/icon/python.png">
- <img width="50" src="src/icon/sql.png">
- <img width="50" src="src/icon/bi.png">
- <img width="100" src="src/icon/excel.png">
+ <img width="60" src="src/icon/R.png">
+ <img width="60" src="src/icon/python.png">
+ <img width="60" src="src/icon/sql.png">
+ <img width="60" src="src/icon/bi.png">
+ <img width="105" src="src/icon/excel.png">
 </p>
 
 
