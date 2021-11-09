@@ -8,9 +8,9 @@ Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que 
 
 Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto ao nosso banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer 1 vez de forma correta.
 
-Banco de Horas
+## Banco de Horas
 <p align ="center">
-  <img width="470" src="src/assets/banco de horas.png">
+  <img width="800" src="src/assets/banco de horas.png">
  </p>
  
 
