@@ -1,11 +1,8 @@
-<head>
-  ### Bem-vindo!
-  Olá, tudo bem? Espero que sim.
-  
-  <p align = "right">
-    <img width = "100" src="src/assets/ronaldo.jpg"> 
+### Bem-vindo!
+Olá, tudo bem? Espero que sim. <p align = "right">
+  <img width = "100" src="src/assets/ronaldo.jpg">
   </p>
-</head>
+
 
 Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
 
@@ -27,8 +24,8 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 
 ### Atualmente
 
-Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer 1 vez de forma correta.
-O que tem sido a menina dos olhos, é um projeto de data mining, estudamos o mercado, comparando ao que existe com o temos, nosso foco é crescer em marketshare. Logo mais coloco informações dele aqui. 
+Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer uma unica vez, e de forma correta.
+O que tem sido a menina dos olhos. É um projeto de data mining, estudamos o mercado, comparando ao que existe com o temos, nosso foco é crescer em marketshare. Logo mais coloco informações dele aqui. 
 
 
 ### Segue alguns dashboard desenvolvidos
@@ -56,7 +53,8 @@ O que tem sido a menina dos olhos, é um projeto de data mining, estudamos o mer
 
 ## Redes Sociais
 <p>
- [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
- 
+ [Acesse meu Github](https://github.com/ronaldobribeiro)
+</p>
+<p>
  [Acesse meu instagram](https://www.instagram.com/ronaldogribeiro/)
 </p>
