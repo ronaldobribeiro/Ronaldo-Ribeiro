@@ -61,13 +61,13 @@ O que tem sido a menina dos olhos. É um projeto de data mining, estudamos o mer
  <dt>Dashboard 5</dt>
 
  <p align ="center">
-  <img width="800" src="src/assets/dash_4.jpg">
+  <img width="800" src="src/assets/dash_4.png">
  </p>
  
  <dt>Dashboard 6</dt>
 
  <p align ="center">
-  <img width="800" src="src/assets/dash_5.jpg">
+  <img width="800" src="src/assets/dash_5.png">
  </p>
  
 </dl>
