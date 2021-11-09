@@ -15,7 +15,7 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 
 <p align ="center">
   <img width="800" src="src/assets/banco de horas.png">
- </p>
+</p>
  
 ## <dt>Kaizen</dt>
 
