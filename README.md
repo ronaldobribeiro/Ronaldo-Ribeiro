@@ -10,6 +10,7 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 
 
 ### Segue alguns dashboard desenvolvidos
+<dl>
 ## <dt>Banco de Horas</dt>
 
 <p align ="center">
@@ -28,7 +29,7 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
   <img width="800" src="src/assets/quadro_projetos.png">
  </p>
 
-
+</dl>
 
 
 ## [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
