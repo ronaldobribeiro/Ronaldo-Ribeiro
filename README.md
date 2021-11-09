@@ -11,19 +11,19 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 
 ### Segue alguns dashboard desenvolvidos
 <dl>
-## <dt>Banco de Horas</dt>
+ <dt>## Banco de Horas</dt>
 
 <p align ="center">
   <img width="800" src="src/assets/banco de horas.png">
 </p>
  
-## <dt>Kaizen</dt>
+ <dt>## Kaizen</dt>
 
  <p align ="center">
   <img width="800" src="src/assets/kaizen.png">
  </p>
  
-## <dt>Quadro de Projetos</dt>
+ <dt>## Quadro de Projetos</dt>
 
  <p align ="center">
   <img width="800" src="src/assets/quadro_projetos.png">
