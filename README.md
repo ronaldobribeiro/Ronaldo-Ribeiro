@@ -1,7 +1,8 @@
-## Bem vindo!
-Olá, tudo bem? Espero que sim. 
-
 <p align = "right">
+ 
+ ## Bem vindo!
+ Olá, tudo bem? Espero que sim. 
+ 
 <img width = "100" src="src/assets/ronaldo.jpg"> 
 </p>
 
@@ -53,5 +54,8 @@ O que tem sido a menina dos olhos, é um projeto de data mining, estudamos o mer
 
 
 ## Redes Sociais
- [Acesse meu GITHUB](https://github.com/ronaldobribeiro) \n
+<p>
+ [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
+ 
  [Acesse meu instagram](https://www.instagram.com/ronaldogribeiro/)
+</p>
