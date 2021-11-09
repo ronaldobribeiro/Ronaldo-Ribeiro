@@ -1,10 +1,10 @@
+<head>
 <p align = "right">
- <p>
   ### Bem vindo!
   Olá, tudo bem? Espero que sim.
- </p>
 <img width = "100" src="src/assets/ronaldo.jpg"> 
 </p>
+</head. 
 
 Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
 
