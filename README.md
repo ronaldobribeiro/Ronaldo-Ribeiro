@@ -16,11 +16,11 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
  <img width="60" src="src/icon/python.png">
  <img width="60" src="src/icon/sql.png">
  <img width="60" src="src/icon/bi.png">
- <img width="105" src="src/icon/excel.png">
+ <img width="107" src="src/icon/excel.png">
 </p>
 
 
-[! [Estatísticas GitHub de Ronaldo Ribeiro] (https://github-readme-stats.vercel.app/api ? Username = ronaldobribeiro )] (https://github.com/ronaldobribeiro/github-readme-stats)
+[! [Estatísticas GitHub de Ronaldo Ribeiro] (https://github-readme-stats.vercel.app/api ? Username = ronaldobribeiro  & show_icons = true )] (https://github.com/ronaldobribeiro/github-readme)
 
 ### Atualmente
 
