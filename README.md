@@ -21,7 +21,7 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 
 
 ![Estatisticas do meu Github](https://github-readme-stats.vercel.app/api?username=ronaldobribeiro&hide=contribs,prs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldobribeiro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldobribeiro&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -34,25 +34,25 @@ O que tem sido a menina dos olhos. É um projeto de data mining, estudamos o mer
 
 ### Segue alguns dashboard desenvolvidos
 <dl>
- <dt>Banco de Horas</dt>
+ <dt>Dashboard 1</dt>
 
 <p align ="center">
   <img width="800" src="src/assets/banco de horas.png">
 </p>
  
- <dt>Kaizen</dt>
+ <dt>Dashboard 2</dt>
 
  <p align ="center">
   <img width="800" src="src/assets/kaizen.png">
  </p>
  
- <dt>Quadro de Projetos</dt>
+ <dt>Dashboard 3</dt>
 
  <p align ="center">
   <img width="800" src="src/assets/quadro_projetos.png">
  </p>
 
-  <dt>Chamados TI</dt>
+  <dt>Dashboard 4</dt>
 
  <p align ="center">
   <img width="800" src="src/assets/chamados.jpg">
