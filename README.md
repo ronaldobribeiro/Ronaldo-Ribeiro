@@ -1,12 +1,31 @@
-## Bem vindo ao meu GitHUB.
-
+## Bem vindo!
 Olá, tudo bem? Espero que sim. 
 
-Meu intuito nesta pagina é demonstrar o meu trabalho, além do meu github, que pode acessar por aqui, logo abaixo, quero mostrar os dashboards desenvolvidos por mim. 
+<p align = "left">
+<img width = "100" src="src/assets/R.jpg"> 
+</p>
+
+Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
+
+#Quem é Ronaldo?
+Bom, meu nome você já sabe, tenho 33 anos, sou casado a 8 anos com a Danielí, esposa maravilhosa e temos 2 lindos filhos, a Rebeca de 4 anos e o Davi de 1. 
+Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenciais(2021), fora cursos em que tenho feito para aprimorar o conhecimento, estatística para data science, python analytics, Powerbi, Rshiny(criação de dashboards), entre outros. 
+
+#Ferramentas. 
+<p align = "right">
+ <img width="200" src="src/icon/R.png">
+ <img width="200" src="src/icon/python.png">
+ <img width="200" src="src/icon/sql.png">
+ <img width="200" src="src/icon/bi.png">
+ <img width="200" src="src/icon/excel.png">
+</p>
+
 
 ### Atualmente
 
-Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto ao nosso banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer 1 vez de forma correta.
+Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer 1 vez de forma correta.
+
+O que tem sido a menina dos olhos, é um projeto de data mining, estudamos o mercado, comparando ao que existe com o temos, nosso foco é crescer em marketshare. Logo mais coloco informações dele aqui. 
 
 
 ### Segue alguns dashboard desenvolvidos
@@ -32,4 +51,6 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 </dl>
 
 
-## [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
+##Redes Sociais
+ [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
+ [Acesse meu instagram](https://www.instagram.com/ronaldogribeiro/)
