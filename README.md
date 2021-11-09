@@ -15,12 +15,12 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
   <img width="800" src="src/assets/banco de horas.png">
  </p>
  
- ## Kaizen
+## Kaizen
  <p align ="center">
   <img width="800" src="src/assets/kaizen.png">
  </p>
  
- ## Kaizen
+## Quadro de Projetos 
  <p align ="center">
   <img width="800" src="src/assets/quadro_projetos.png">
  </p>
@@ -29,4 +29,4 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 
 
 
-[Link](https://github.com/ronaldobribeiro)
+## [Acesse meu GITHUB](https://github.com/ronaldobribeiro)
