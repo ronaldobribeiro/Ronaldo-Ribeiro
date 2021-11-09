@@ -12,7 +12,10 @@ Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio 
 Segue alguns dashboard desenvolvidos
 
 Banco de Horas
-![Screenshot](banco de horas.png)
+<p align ="center">
+  <img width="470" src="src/assets/banco de horas.png">
+ </p>
+ 
 
 # Header 1
 ## Header 2
