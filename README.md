@@ -1,7 +1,5 @@
 ### Bem-vindo!
-Olá, tudo bem? Espero que sim. <p align = "right">
-  <img width = "100" src="src/assets/ronaldo.jpg">
-  </p>
+Olá, tudo bem? Espero que sim. <img width = "100" src="src/assets/ronaldo.jpg">
 
 
 Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
