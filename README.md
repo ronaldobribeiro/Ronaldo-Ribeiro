@@ -1,5 +1,4 @@
-### Bem-vindo!
-Olá, tudo bem? Espero que sim. 
+### Bem-vindo! Olá, tudo bem? Espero que sim. 
 <img width = "100" src="src/assets/ronaldo.jpg">
 
 
