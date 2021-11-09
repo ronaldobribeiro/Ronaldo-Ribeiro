@@ -21,7 +21,7 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 
 
 ![Estatisticas do meu Github](https://github-readme-stats.vercel.app/api?username=ronaldobribeiro&hide=contribs,prs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldobribeiro&theme=tokyonight$layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldobribeiro&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
