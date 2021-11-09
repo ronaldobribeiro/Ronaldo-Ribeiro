@@ -20,6 +20,8 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 </p>
 
 
+[! [Estatísticas GitHub de Ronaldo Ribeiro] (https://github-readme-stats.vercel.app/api ? Username = ronaldobribeiro )] (https://github.com/ronaldobribeiro/github-readme-stats)
+
 ### Atualmente
 
 Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer uma unica vez, e de forma correta.
