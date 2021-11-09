@@ -1,5 +1,5 @@
 <head>
-  ### Bem vindo!
+  ### Bem-vindo!
   Olá, tudo bem? Espero que sim.
   
   <p align = "right">
