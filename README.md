@@ -58,8 +58,8 @@ O que tem sido a menina dos olhos. É um projeto de data mining, estudamos o mer
 
 ## Redes Sociais
 <p>
- [Acesse meu Github](https://github.com/ronaldobribeiro)
+ [link](https://github.com/ronaldobribeiro)
 </p>
 <p>
- [Acesse meu instagram](https://www.instagram.com/ronaldogribeiro/)
+ [link](https://www.instagram.com/ronaldogribeiro/)
 </p>
