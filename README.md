@@ -20,7 +20,8 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 </p>
 
 
-[! [Estatísticas GitHub de Ronaldo Ribeiro] (https://github-readme-stats.vercel.app/api ? Username = ronaldobribeiro  & show_icons = true )] (https://github.com/ronaldobribeiro/github-readme)
+[![Estatísticas GitHub-Ronaldo Ribeiro](https://github-readme-stats.vercel.app/api?username=ronaldobribeiro  & show_icons = true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Atualmente
 
