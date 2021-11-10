@@ -1,13 +1,13 @@
-### Bem-vindo! Olá, tudo bem? Espero que sim. 
+### Bem-vindo! Tudo bem? Espero que sim. 
 <img width = "100" src="src/assets/ronaldo.jpg">
 
 
-Meu intuito nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
+Meu objetivo nesta pagina é demonstrar o meu trabalho, aquilo que faço e quais ferramentas utilizo em meu dia a dia. 
 
 # Quem é Ronaldo?
 
-Bom, meu nome você já sabe, tenho 33 anos, sou casado a 8 anos com a Danielí, esposa maravilhosa e temos 2 lindos filhos, a Rebeca de 4 anos e o Davi de 1. 
-Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenciais(2021), fora cursos em que tenho feito para aprimorar o conhecimento, estatística para data science, python analytics, Powerbi, Rshiny(criação de dashboards), entre outros. 
+Bom, meu nome você já sabe, tenho 33 anos, sou casado há 8 anos com uma esposa maravilhosa e temos 2 lindos filhos. 
+Estou me formando em 2 faculdades, sendo elas, teologia(conclusão em 2023) e processos gerenciais(conclusão em 2021), além de cursos que tenho feito para aprimorar o conhecimento, estatística para data science, python analytics, Powerbi, Rshiny(criação de dashboards), entre outros.
 
 # Ferramentas.
 
@@ -24,55 +24,26 @@ Estou me formando em 2 faculdades, sendo elas, teologia(2023) e processos gerenc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldobribeiro&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 ### Atualmente
 
-Atuo em uma indústria em ritmo de crescimento, jovial e dinâmica, meu desafio aqui é colaborar para uma transformação digital, dentre os desafios, destaco a mudança na forma de criar dashboards, o que antes era oriundo de planilhas de excel(nada contra), para o consumo direto banco de dados. O primeiro ponto aqui é fazer com que todos pensem da mesma forma. Pois o preparo para o consumo direto no banco de dados é maior, então o foco é fazer uma unica vez, e de forma correta.
-O que tem sido a menina dos olhos. É um projeto de data mining, estudamos o mercado, comparando ao que existe com o temos, nosso foco é crescer em marketshare. Logo mais coloco informações dele aqui. 
-
+Atuo em uma indústria com ritmo de **crescimento**, **dinâmica** com espírito **jovem** focada na transformação digital, para isso utilizamos as poderosas ferramentas **Lean**, que nos auxiliam para um crescimento perene. 
+Meu trabalho começa na elaboração de dashboards conectados diretamente ao nosso banco de dados, gerando conhecimento para tomada de decisão, visando o bem comum. 
+Também estou envolvido em um projeto de mineração de dados, que possui como foco alinhar as informações internas com externas, tendo aumento de marketshare. Logo mais coloco informações dele aqui. 
 
 ### Segue alguns dashboard desenvolvidos
 <dl>
- <dt>Dashboard 1</dt>
-
-<p align ="center">
-  <img width="800" src="src/assets/banco de horas.png">
+ <p align ="center">
+  <img width="400" src="src/assets/banco de horas.png">
+ <img width="400" src="src/assets/kaizen.png">
+ <img width="400" src="src/assets/quadro_projetos.png">
+ <img width="400" src="src/assets/chamados.jpg">
+ <img width="400" src="src/assets/dash_4.png">
+ <img width="400" src="src/assets/dash_5.png">
 </p>
- 
- <dt>Dashboard 2</dt>
-
- <p align ="center">
-  <img width="800" src="src/assets/kaizen.png">
- </p>
- 
- <dt>Dashboard 3</dt>
-
- <p align ="center">
-  <img width="800" src="src/assets/quadro_projetos.png">
- </p>
-
-  <dt>Dashboard 4</dt>
-
- <p align ="center">
-  <img width="800" src="src/assets/chamados.jpg">
- </p>
- 
- <dt>Dashboard 5</dt>
-
- <p align ="center">
-  <img width="800" src="src/assets/dash_4.png">
- </p>
- 
- <dt>Dashboard 6</dt>
-
- <p align ="center">
-  <img width="800" src="src/assets/dash_5.png">
- </p>
- 
 </dl>
 
 
 ## Redes Sociais
 <p><a href="https://github.com/ronaldobribeiro/">GitHub</a></p>
 <p><a href="https://www.instagram.com/ronaldogribeiro/">Instagram</a></p>
+<p><a href="https://www.linkedin.com/in/ronaldo-garcia-ribeiro/">Linkedin</a></p>
